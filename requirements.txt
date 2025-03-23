@@ -1,10 +1,6 @@
-streamlit
-pandas
-matplotlib==3.5.1
-seaborn
-plotly
-scikit-learn
-joblib
-mysql-connector-python
-imbalanced-learn
-pickle5
+streamlit==1.43.2
+pandas==2.2.3
+matplotlib==3.6.0
+plotly==5.5.0
+scikit-learn==1.0.2
+joblib==1.1.0
