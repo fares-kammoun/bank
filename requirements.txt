@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib==3.5.1
+seaborn
+plotly
+scikit-learn
+joblib
+mysql-connector-python
+imbalanced-learn
+pickle5
